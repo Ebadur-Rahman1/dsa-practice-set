@@ -1,4 +1,4 @@
-// Find the largest number in a given array.
+// Q2. Find the largest number in a given array.
 
 public class LargestNumber {
     public static int findLargestNumber(int arr[]){
