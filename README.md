@@ -22,5 +22,73 @@ It’s designed to strengthen core concepts and prepare for **coding interviews*
 
 ## 🧰 Languages Used
 - Java  
-- C++ *(optional)*  
-- Python *(for some solutions)*  
+
+---
+
+> Each folder contains the topic name with multiple problem solutions inside.
+
+---
+
+## 📂 Folder Structure
+dsa-practice-set/
+│
+├── 01Array/
+│ ├── LinearSearch.java
+│ ├── LargestNumber.java
+│ └── SecondLargestNumber.java ...
+|
+├── 02BasicSortingAlgorithm/
+│ ├── BubbleSort.java
+│ ├── SelectionSort.java
+│ 
+│
+└── README.md
+
+
+
+---
+
+## 📈 Progress Tracker
+| Topic | Status |
+|--------|---------|
+| Arrays | ✅ Completed |
+| Strings | 🚧 In Progress |
+| Recursion | 🚧 In Progress |
+| DP | ⏳ Coming Soon |
+
+---
+
+## 🎯 Goal
+- Strengthen DSA fundamentals  
+- Prepare for coding interviews (Google, Amazon, Microsoft, etc.)  
+- Build strong logical and problem-solving skills  
+
+---
+
+## 💡 How to Use
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/Ebadur-Rahman1/dsa-practice-set.git
+
+
+Run code in your preferred IDE or online compiler.
+
+
+📘 Resources I Follow
+
+LeetCode
+
+Apna College Sheet
+
+👨‍💻 Author
+Ebadur Rahman
+💼 Software Developer | DSA Enthusiast
+📧 ebad2call@gmail.com
+
+⭐ Support
+If this repo helps you, please give it a ⭐ on GitHub and share it with other learners!
+
+🏷️ Tags
+DSA Arrays Dynamic Programming Coding Interview LeetCode GeeksforGeeks Data Structures Algorithms Java C++ Python
+
+---
