@@ -44,8 +44,6 @@ dsa-practice-set/
 │
 └── README.md
 
-
-
 ---
 
 ## 📈 Progress Tracker
@@ -73,7 +71,6 @@ dsa-practice-set/
 
 Run code in your preferred IDE or online compiler.
 
-
 📘 Resources I Follow
 
 LeetCode
@@ -87,8 +84,5 @@ Ebadur Rahman
 
 ⭐ Support
 If this repo helps you, please give it a ⭐ on GitHub and share it with other learners!
-
-🏷️ Tags
-DSA Arrays Dynamic Programming Coding Interview LeetCode GeeksforGeeks Data Structures Algorithms Java C++ Python
 
 ---
